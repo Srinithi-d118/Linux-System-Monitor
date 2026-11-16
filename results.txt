@@ -1,0 +1,36 @@
+======================================
+         LINUX SYSTEM MONITOR
+======================================
+
+========== SYSTEM INFORMATION ==========
+Computer Name: LAPTOP-DHMLU7EV
+Operating System: Linux
+OS Version: 6.6.87.2-microsoft-standard-WSL2
+Processor Architecture: x86_64
+Current Directory: /root/Linux-System-Monitor
+
+========== MEMORY INFORMATION ==========
+MemTotal:        3879136 kB
+MemAvailable:    3446536 kB
+
+========== RAM USAGE ==========
+Total RAM: 3788.22 MB
+Used RAM: 422.46 MB
+RAM Usage: 11.15 %
+
+========== CPU INFORMATION ==========
+CPU Model: 11th Gen Intel(R) Core(TM) i3-1125G4 @ 2.00GHz
+CPU Cores: 8
+
+========== DISK INFORMATION ==========
+Total Disk Space: 1006.85 GB
+Used Disk Space: 57.66 GB
+Free Disk Space: 949.19 GB
+
+========== DATE AND TIME ==========
+Date: 16-11-2026
+Time: 11:24:02 PM
+
+======================================
+   SYSTEM MONITORING COMPLETED!
+======================================
